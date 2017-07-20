@@ -1396,6 +1396,10 @@ python-kombu-pip:
   ubuntu:
     pip:
       packages: [kombu]
+python-lasagne:
+  ubuntu:
+    pip:
+      packages: [lasagne]
 python-levenshtein:
   debian: [python-levenshtein]
   fedora: [python-Levenshtein]
